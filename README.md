@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @taisei55
 - I' will start my carrer of software engineer form 2024/4. 
-- 👀 I’m interested in ..
+- 👀 I’m interested in programm.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me by e-mail.
 
 <!---
 taisei55/taisei55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
